@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extentreports>
+    <configuration>
+        <!-- Report Theme -->
+        <theme>DARK</theme>
+
+        <!-- Report Title -->
+        <documentTitle>My BDD Cucumber Project - Test Report</documentTitle>
+        <reportName>Automation Execution Report</reportName>
+
+        <!-- Encoding -->
+        <encoding>UTF-8</encoding>
+
+        <!-- Chart Location -->
+        <protocol>https</protocol>
+        <timelineEnabled>true</timelineEnabled>
+
+        <!-- Custom Name -->
+        <systemInfo>
+            <info name="Tester" value="Honeyta"/>
+            <info name="Project" value="My BDD Cucumber Project"/>
+        </systemInfo>
+    </configuration>
+</extentreports>
